@@ -1,0 +1,6 @@
+C:\Users\yura\Documents\SharpDevelop Projects\kladka\kladka\obj\Debug\kladka.csprojResolveAssemblyReference.cache
+C:\Users\yura\Documents\SharpDevelop Projects\kladka\kladka\bin\Debug\kladka.exe.config
+C:\Users\yura\Documents\SharpDevelop Projects\kladka\kladka\bin\Debug\kladka.exe
+C:\Users\yura\Documents\SharpDevelop Projects\kladka\kladka\bin\Debug\kladka.pdb
+C:\Users\yura\Documents\SharpDevelop Projects\kladka\kladka\obj\Debug\kladka.exe
+C:\Users\yura\Documents\SharpDevelop Projects\kladka\kladka\obj\Debug\kladka.pdb
